@@ -62,7 +62,7 @@ However, I wanted to keep my costs low, so I turned to coding my own website fro
 
 
 I have coded a few websites from scratch before and they were coded in HTML+CSS without the use of a framework.
-I knew I would have some time consuming and tedious work ahead of me if I wanted to build a new website from scratch.
+I knew I would have some tedious work ahead of me if I wanted to build a new website from scratch.
 That's when I ran into [Brittany Chang's website](https://brittanychiang.com/) which lead me to Gatsby.
 
 
