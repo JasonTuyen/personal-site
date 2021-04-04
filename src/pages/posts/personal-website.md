@@ -1,7 +1,7 @@
 ---
 title: "Personal Website"
 date: "2021-02-01"
-tags: "Gatsby"
+tags: "Gatsby, Figma"
 ---
 My personal website that you're currently viewing.
 
@@ -39,16 +39,17 @@ It was never really finished because I started my first job at that time, so the
 
 
 Here's a screenshot of my first original personal resume website:
-![Screenshot of website](../../static/Thumbnail-OldSite.jpg)
+![Screenshot of Jason's old website](../../static/Thumbnail-OldSite.jpg)
 
 
 Here's a screenshot of my current personal website:
-![Screenshot of website](../../static/Thumbnail-PersonalSite.jpg)
+![Screenshot of Jason's new website](../../static/Thumbnail-PersonalSite.jpg)
 
 
 This project was built mainly with GatsbyJS and some light HTML+CSS.
 Most of the design was handled thanks to a Gatsby plugin called [Typography](http://kyleamathews.github.io/typography.js/)
 The homepage was designed by myself, below is a Figma mockup that I made for my homepage:
+![Screenshot of Figma Website](../../static/Thumbnail-OldSiteFigma.jpg)
 
 
 ### Workflow Process - Research
