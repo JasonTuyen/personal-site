@@ -20,7 +20,7 @@ export default function About() {
       </p>
       <p>
         My two favorite accomplishments are when I won a rap competition and when I helped edit a short film. But accomplishments are better
-        as a team so if you want to collab feel free to send me a message form any of the links below.
+        as a team so if you want to collab feel free to send me a message from any of the links below.
       </p>
       <p><b>Good Luck Have Fun,<br></br>Jason "iCookieStalker" Tuyen</b></p>
     </Layout>
