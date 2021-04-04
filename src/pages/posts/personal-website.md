@@ -39,6 +39,7 @@ It was never really finished because I started my first job at that time, so the
 
 
 Here's a screenshot of my first original personal resume website:
+![Screenshot of website](../../static/Thumbnail-OldSite.jpg)
 
 
 Here's a screenshot of my current personal website:
