@@ -41,7 +41,8 @@ It was never really finished because I started my first job at that time, so the
 Here's a screenshot of my first original personal resume website:
 
 
-Here's a screenshot of my current personal website just because:
+Here's a screenshot of my current personal website:
+![Screenshot of website](../../static/Thumbnail-PersonalSite.jpg)
 
 
 This project was built mainly with GatsbyJS and some light HTML+CSS.
