@@ -48,7 +48,7 @@ Here's a screenshot of my current personal website:
 
 This project was built mainly with GatsbyJS and some light HTML+CSS.
 Most of the design was handled thanks to a Gatsby plugin called [Typography](http://kyleamathews.github.io/typography.js/)
-The homepage was designed by myself, below is a Figma mockup that I made for my homepage:
+The homepage was designed by myself, below is a Figma mockup that I made for my homepage and website:
 ![Screenshot of Figma Website](../../static/Thumbnail-OldSiteFigma.jpg)
 
 
