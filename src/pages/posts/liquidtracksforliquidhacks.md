@@ -12,9 +12,6 @@ A web app that tracks water intake and much more.
 [Devpost Link](https://devpost.com/software/liquidtracksforliquidhacks)
 
 
-![Alt text](..\..\static\Thumbnail-Liquid.jpg)
-
-
 ## Project Summary
 This was a web application that I created during Liquid Hacks (a hackathon hosted by the esports Organization: Team Liquid) to promote mental health. This web application tracks water intake, sends reminders, provides inspirational League of Legends Quotes, and plays Animal Crossing music.
 

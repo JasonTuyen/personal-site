@@ -10,7 +10,7 @@ export default function About() {
       <p>
         I am currently studying Computer Science and Education (specialization in Equity and Engagement) in California.
         My overall goal is to pursue a career in Software Engineering and to build products that helps others. 
-        My biggest values are accessibility and simplicity which is why I enjoyed my previous work
+        My biggest values are accessibility and simplicity which is why I enjoyed my previous jobs
         as a Special Education Tutor and IT Tech Support.
       </p>
       <p>
