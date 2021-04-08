@@ -6,13 +6,13 @@ tags: "Gatsby, Figma"
 My personal website that you're currently viewing.
 
 
-[GitHub Repo Link]()
+[GitHub Repo Link](https://github.com/JasonTuyen/personal-site)
 
 
 ## Project Summary
 I decided to make a (new) personal website to better show off my skills and interests. 
 The main tool that I used to build this website was [Gatsby](https://www.gatsbyjs.com/) because it's a well-documented and in-demand React based framework.
-On top of being an in-demand skill, Gatsby websites can easily be deployed to [Netify](https://www.netlify.com/) and uses GraphQL to esaily pull information from GitHub and markdown files.
+On top of being an in-demand skill, Gatsby websites can easily be deployed to [Netify](https://www.netlify.com/) and uses GraphQL to easily pull information.
 
 
 ## Project Requirements
@@ -36,6 +36,9 @@ You can read more about that e-commerce project by clicking on [this link](/post
 The third website that I created was my personal resume website.
 It was created in 2019 using HTML+CSS and hosted with GitHub's Static Site Hosting.
 It was never really finished because I started my first job at that time, so there wasn't much free time to complete it.
+
+
+The fouth website is the current one that you are viewing right now and in my opinion, it's my favorite so far.
 
 
 Here's a screenshot of my first original personal resume website:
