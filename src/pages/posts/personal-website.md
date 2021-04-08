@@ -97,6 +97,8 @@ Gatsby, HTML, and CSS has an active community of helpers and documentation so mo
 As a result of this project, I learned to use GatsbyJS and how to host a website with Netify. 
 I also learned how to use GraphQL to pull information from markdown files, so that I can have better project posts.
 I also got to brush up on some old skills like HTML+CSS and Figma for mockups.
+
+
 I plan to routinely update and grow this website as I grow myself. 
 My next future development plan for this website is to add a toggable dark/light mode.
 

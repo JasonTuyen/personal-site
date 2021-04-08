@@ -42,6 +42,8 @@ I was never able to find a solution to that issue, but let me tell you that it w
 
 As a result of this project, I learned how to use an API with javascript. 
 This was my first time using an API and first time attending a hackathon so I would say this was a successful project.
+
+
 Hopefully in the future I can turn this into a Google Chrome extension and maybe have the music auto play to a specific hour like in the Animal Crossing games.
 
 

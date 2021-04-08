@@ -11,8 +11,9 @@ export default function OtherMisc() {
         <li>Spotify Premium</li>
         <li>Visual Studio Code</li>
         <li>Notion Note Taking App</li>
-        <li><a href="https://www.dashlane.com/cs/zPmC9cJx-Jh7">Dashlane Password Manager (Referral link where we both get 6 months free)</a></li>
         <li>Adobe Creative Cloud Software</li>
+        <li>Dashlane Password Manager (<a href="https://www.dashlane.com/cs/zPmC9cJx-Jh7">Referral link where we both get 6 months free</a>)</li>
+        <li>YouNeedABudget Budgeting App (<a href="https://ynab.com/referral/?ref=2ep_estmrjhjk6c-&utm_source=customer_referral">Referral link where we both get a free month</a>)</li>
         <li>2017 Macbook Pro</li>
         <li>2018 Custom-Built PC (Ryzen 5 2600X/GeForce GTX 1060)</li>
       </ul>
