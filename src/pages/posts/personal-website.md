@@ -17,7 +17,7 @@ On top of being an in-demand skill, Gatsby websites can easily be deployed to [N
 
 ## Project Requirements
 * Functions as both my homepage and online project portfolio
-* Quick and cheap deployment (Final Price: $)
+* Quick and cheap deployment (Final Price: $7.99 per month, everything was free except for my domain)
 * Simple design and easy to navigate
 * Showcases my skills and my interests
 
