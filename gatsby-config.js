@@ -7,6 +7,18 @@
  module.exports = {
   plugins: [
     {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: "Jason Tuyen",
+        short_name: "Jason",
+        start_url: "/",
+        background_color: "#ffffff",
+        theme_color: "#663399",
+        display: "standalone",
+        icon: "src/static/favicon.png",
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `src`,
