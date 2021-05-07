@@ -1,4 +1,5 @@
 import React from "react"
+import Helmet from "react-helmet"
 import Layout from "../components/layout"
 import Socials from "../components/socials"
 import "../styles/global.css"
@@ -9,10 +10,16 @@ import ThumbnailThree from "../static/Thumbnail-PersonalSite.jpg"
 export default function Index() {
   return (
     <Layout>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Jason Tuyen</title>
+        <description>The internet homepage of Jason Tuyen aka iCookieStalker.</description>
+      </Helmet>
       <div style={{paddingTop:200, paddingBottom:500}}>
         <p style={{fontSize:40}}><span role="img" aria-label="peace sign">✌</span> Hi, I'm Jason!</p>
+        <p>Also known as <mark>iCookieStalker.</mark></p>
         <p>I'm a <mark>Computer Science and Education Student</mark> from California.</p>
-        <p>Currently looking for an oportunity to work as a <mark>Software Engineer</mark>.</p>
+        <p>Currently looking for an oportunity to work as a <mark>Software Engineer.</mark></p>
         <p><mark>Scroll down</mark> to see some of my favorite projects.</p>
         <div style={{float: "right"}}>
           <Socials />

@@ -1,9 +1,15 @@
 import React from "react"
+import Helmet from "react-helmet"
 import Layout from "../components/layout"
 
 export default function OtherMisc() {
   return (
     <Layout>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Other - Jason Tuyen</title>
+        <description>The internet miscellaneous page of Jason Tuyen aka iCookieStalker.</description>
+      </Helmet>
       <h1>Other</h1>
       <h3>My Favorite Tools</h3>
       <ul>

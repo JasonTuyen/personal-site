@@ -1,9 +1,15 @@
 import React from "react"
+import Helmet from "react-helmet"
 import Layout from "../components/layout"
 
 export default function About() {
   return (
     <Layout>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>About - Jason Tuyen</title>
+        <description>The internet about page of Jason Tuyen aka iCookieStalker.</description>
+      </Helmet>
       <h1>About</h1>
       <p>Hello World,</p>
       <p>I'm Jason Tuyen and I often go by the alias of iCookieStalker. If you're reading this, thanks for visiting my website!</p>

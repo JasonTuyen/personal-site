@@ -55,7 +55,7 @@ The homepage was designed by myself, below is a Figma mockup that I made for my 
 ![Screenshot of Figma Website](../../static/Thumbnail-OldSiteFigma.jpg)
 
 
-### Workflow Process - Research
+### Research
 I looked to many different websites for inspirtations and to determine how others were going about builing their websites.
 
 
@@ -72,7 +72,7 @@ That's when I ran into [Brittany Chang's website](https://brittanychiang.com/) w
 Gatsby is a reach based framework that fulfilled my most important requirement: quick and cheap deployment.
 
 
-### Workflow Process - Design
+### Design
 After desciding how I would build my website, I set out to create a rough draft design.
 I used Figma to design my wireframe mockups and was able to create mockups in a few hours.
 As you can see, in the end I didn't copy the design exactly, but rough drafts are more of a guideline and estimate anyways.
@@ -88,11 +88,12 @@ I also had a color scheme in my mockup that I changed up in the final result sin
 I also decided that pink was a hard color to see, so I decided to use purple in the final design.
 
 
-### Workflow Process - Development
+### Development
 I did all my coding on Visual Studio Code (my favorite text editor).
 I mainly followed the Gatsby quick start documentation and coupled with a couple Google searches was more than enough to get this website up and running.
 
 
+## Final Project Thoughts
 There were very few challenges to deal with in this projcet. 
 Gatsby, HTML, and CSS has an active community of helpers and documentation so most of my issues were solved easily with Google.
 

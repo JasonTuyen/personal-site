@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import Helmet from "react-helmet"
 import Layout from "../components/layout"
 import "../styles/global.css"
 
@@ -7,6 +8,11 @@ export default function Projects({ data }) {
   console.log(data)
   return (
     <Layout>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Project - Jason Tuyen</title>
+        <description>The internet project and blog page of Jason Tuyen aka iCookieStalker.</description>
+      </Helmet>
       <div>
         <h1>Projects</h1>
         <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
