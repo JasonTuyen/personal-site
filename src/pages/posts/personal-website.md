@@ -38,7 +38,7 @@ It was created in 2019 using HTML+CSS and hosted with GitHub's Static Site Hosti
 It was never really finished because I started my first job at that time, so there wasn't much free time to complete it.
 
 
-The fouth website is the current one that you are viewing right now and in my opinion, it's my favorite so far.
+The fourth website is the current one that you are viewing right now and in my opinion, it's my favorite so far.
 
 
 Here's a screenshot of my first original personal resume website:
@@ -56,7 +56,7 @@ The homepage was designed by myself, below is a Figma mockup that I made for my 
 
 
 ### Research
-I looked to many different websites for inspirtations and to determine how others were going about builing their websites.
+I looked to many different websites for inspirations and to determine how others were going about building their websites.
 
 
 It seemed that most people turned to Wordpress and other website building services like Squarespace.
@@ -73,7 +73,7 @@ Gatsby is a reach based framework that fulfilled my most important requirement: 
 
 
 ### Design
-After desciding how I would build my website, I set out to create a rough draft design.
+After deciding how I would build my website, I set out to create a rough draft design.
 I used Figma to design my wireframe mockups and was able to create mockups in a few hours.
 As you can see, in the end I didn't copy the design exactly, but rough drafts are more of a guideline and estimate anyways.
 
@@ -81,7 +81,7 @@ As you can see, in the end I didn't copy the design exactly, but rough drafts ar
 During this phase I also decided how many pages I would have and how the layout of the pages will look like.
 My original draft was 5 pages (homepage, about page, project page, blog page, and other-misc page).
 In the final result I had 4 pages (homepage, about page, project page, and other-misc page).
-Here's the original Figma sketchesgat
+Here's the original Figma sketches
 
 
 I also had a color scheme in my mockup that I changed up in the final result since I found out about Typography.
@@ -94,7 +94,7 @@ I mainly followed the Gatsby quick start documentation and coupled with a couple
 
 
 ## Final Project Thoughts
-There were very few challenges to deal with in this projcet. 
+There were very few challenges to deal with in this project. 
 Gatsby, HTML, and CSS has an active community of helpers and documentation so most of my issues were solved easily with Google.
 
 
@@ -104,7 +104,7 @@ I also got to brush up on some old skills like HTML+CSS and Figma for mockups.
 
 
 I plan to routinely update and grow this website as I grow myself. 
-My next future development plan for this website is to add a toggable dark/light mode.
+My next future development plan for this website is to add a togglable dark/light mode.
 
 
 ## Credits

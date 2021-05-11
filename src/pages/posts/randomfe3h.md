@@ -12,7 +12,7 @@ A random team generator for Fire Emblem Three Houses.
 ## Project Summary
 A random team generator for the Fire Emblem Three Houses Game. 
 Built using Python and potentially tkinter for the GUI.
-Running this program will return you a team for your next playthough of Fire Emblem Three Houses. 
+Running this program will return you a team for your next playthrough of Fire Emblem Three Houses. 
 I created this program because I was getting bored of running "optimal" playthroughs of Three Houses and to practice my Python.
 
 

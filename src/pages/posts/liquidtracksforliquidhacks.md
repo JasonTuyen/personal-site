@@ -26,7 +26,7 @@ This project was fun, especially because I made it during a hackathon.
 This was my first hackathon and I definitely recommend that people attend a hackathon if possible.
 You get to meet like minded people and can challenge yourself to build a project within a short time frame.
 There's also the opportunity to connect with future employers and learn from workshop panels.
-Unfortunatly I didn't win the hackathon, but I did win the rapping mini-event.
+Unfortunately I didn't win the hackathon, but I did win the rapping mini-event.
 
 
 The project is essentially a web app that tracks water intake with a few other added goodies such as: reminders, inspirational League of Legends quotes, and Animal Crossing background music.
@@ -35,7 +35,7 @@ I had used these technologies before, but it's been a while since I've used them
 Luckily there was a workshop panel hosted by Hack Club which served as a nice refresher for my html and css.
 
 
-The main chanlleges that I had to deal with was re-learning javascript and learning how to use API calls. 
+The main challenges that I had to deal with was re-learning javascript and learning how to use API calls. 
 A specific issue that I ran into was web browsers not auto playing music.
 I was never able to find a solution to that issue, but let me tell you that it was a night filled with Googling and milk tea.
 
