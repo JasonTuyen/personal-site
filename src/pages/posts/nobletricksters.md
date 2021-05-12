@@ -3,11 +3,11 @@ title: "Noble Tricksters"
 date: "2021-03-31"
 tags: "Life Skills, Entrepreneurship, Adobe Creative Suite, Wordpress, Figma"
 ---
-Here's what I learned from my online community and online clothing business. TL;DR at the end.
+Here's what I learned from my online community and online clothing business. **TL;DR at the end.**
 
 
 ## Project Summary
-Noble Tricksters was an online gaming community founded by my cousins and I in 2016. We did get togethers on Discord and I even edited videos for our YouTube channel.
+Noble Tricksters was an online gaming community founded by my cousins and I in 2016. We did get-togethers on Discord and I even edited videos for our YouTube channel.
 After our community grew a bit, I decided to start a clothing brand based on our community.
 The clothing brand no longer exists and our community isn't as active as before, but I thought I would write a post to reflect what I've learned from my Noble Tricksters community/business.
 
@@ -29,8 +29,8 @@ Anyways, the Noble Tricksters name was created by forming an oxymoron that refle
 
 Creating videos for Noble Tricksters was pretty straightforward. We just got together to play games and then I would edit out the interesting parts and put things together. 
 [You can click here to go to our YouTube channel and see my editing skills.](https://www.youtube.com/channel/UCUzAAvRtuSh6q2MI3jy52Dw/featured)
-As a result I learned how to use Sony Vegas and Adobe Premiere Pro, and I even [recently put these skills to use in a School Club Project](https://www.youtube.com/channel/UCU8LhZGkKsmXddsQjARLmsA)
-***So learning new skills is not only fun but also a good way to enter new opportunities.***
+As a result I learned how to use Sony Vegas and Adobe Premiere Pro, and I even [recently put these skills to use](https://www.youtube.com/channel/UCU8LhZGkKsmXddsQjARLmsA) for my University's Pilipino Culture Night.
+***So not only is learning new skills fun but it's also a good way to recieve new opportunities.***
 
 
 With the clothing brand it required a little more work than video creation. The major issue was money, to start a clothing brand requires money to buy the shirts. 
@@ -53,12 +53,14 @@ The next step was sharing/marketing my products. I created a website using Wordp
 Unfortunately, I no longer have the code or a screenshot of the original Noble Tricksters Website.
 ***Which leads me to this piece of wisdom: keep good documentation!***
 
+
 However, I did make a quick mockup on Figma. It's based on the few things that I did make notes of and what I remember the website used to look like.
 I noted down the HEX code colors originally used (purple, gold, and gray) and the two fonts (Oswald and Roboto). I also recalled that our homepage had our logo next to a call-to-action button that led to our shop page. The remainder of the homepage had 2 major sections: an Instagram posts widget and a section dedicated to things our members made (such as art, music, videos, etc). Aside from the homepage and shop page, we also had the about page and contact page with every page fulfilling their obvious purpose. 
-![Figma Mockup of Noble Trickster's Website](../../static/Thumbnail-NBLTS.png)
+![Figma Mockup of Noble Trickster's Website](../../static/Thumbnail-NBLTS.jpg)
+
 
 Since I'm posting photos, here one of the ads that I made for our business using Adobe Photoshop
-![Model posing with Noble Trickster's merchandise.](../../static/Thumbnail-NBLTS-Ad.png)
+![Model posing with Noble Trickster's merchandise.](../../static/Thumbnail-NBLTS-Ad.jpg)
 
 
 ## TL;DR
