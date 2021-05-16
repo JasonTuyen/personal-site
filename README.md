@@ -30,6 +30,6 @@ My personal website that shows off my interests as a person and my skills as an 
 
 ## Future Development Plans
 * Add toggleable light/dark mode
-* Make use of React's Form to create contact page
+* ~~Make use of React's Form to create contact page~~
 * Add more projects/blog posts as I complete them
 * Continue to make edits to source code, so that code can be more optimal 
