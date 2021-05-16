@@ -24,8 +24,8 @@ export default function About() {
         My other interests include videography/photography, <a href="https://open.spotify.com/user/icookiestalker/playlists">making music playlists</a>, searching for the best cookie, and most recently longboard dancing.
       </p>
       <p>
-        My two recent and favorite accomplishments are when <a href="https://twitter.com/iCookieStalker/status/1325620776523821056">I wrote a rap song during my first hackathon</a> and when I helped <a href="https://www.youtube.com/channel/UCU8LhZGkKsmXddsQjARLmsA/videos">edit for my University's Pilipino Cultural Night.</a> 
-        But accomplishments are better as a team so if you want to collab feel free to send me a message from any of the links below.
+        My two recent and favorite accomplishments are when <a href="https://twitter.com/iCookieStalker/status/1325620776523821056">I wrote a rap song during my first hackathon</a> and when I helped <a href="https://www.youtube.com/channel/UCU8LhZGkKsmXddsQjARLmsA/videos">edit for my University's Pilipino Cultural Night.</a>  But accomplishments are better as a team, 
+        so if you want to collab let's <a href="mailto:chat@jasontuyen.com">chat@jasontuyen.com</a> or you can also <a href="/contact/">fill out this contact form.</a>
       </p>
       <p><b>Good Luck Have Fun,<br></br>Jason "iCookieStalker" Tuyen</b></p>
     </Layout>

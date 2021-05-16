@@ -15,6 +15,7 @@ export default function NavMenu() {
         <ListLink to="/about">About</ListLink>
         <ListLink to="/projects">Projects</ListLink>
         <ListLink to="/other-misc">Other</ListLink>
+        <ListLink to="/contact">Contact</ListLink>
       </ul>
     </div>
   )

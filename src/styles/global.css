@@ -14,3 +14,25 @@ a:hover{
 h1{
     text-decoration: underline;
 }
+
+form { 
+    max-width:420px; 
+    margin:50px auto; 
+}
+
+#name, #email, #subject, #message{
+    border:2px solid #663399;
+    margin-bottom: 15px;
+    width:100%;
+}
+
+[type="submit"] {
+    background:#663399;
+    color:white;
+    cursor:pointer;
+    width: 100%;
+}
+
+[type="submit"]:hover { 
+    background:#FFBD1B; 
+}
