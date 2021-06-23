@@ -1,7 +1,7 @@
 ---
 title: "Validation Project"
 date: "2021-06-18"
-tags: ""
+tags: "Flask, Heroku, Python, HTML, CSS, Hackathons"
 ---
 A place to share your story, some advice, or just some kind words.
 

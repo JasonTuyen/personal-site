@@ -1,7 +1,7 @@
 ---
 title: "LiquidTracksForLiquidHacks"
 date: "2020-11-08"
-tags: "HTML, CSS, Javascript"
+tags: "HTML, CSS, Javascript, Hackathons"
 ---
 A web app that tracks water intake and much more.
 
