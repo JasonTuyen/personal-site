@@ -1,7 +1,7 @@
 ---
 title: "Noble Tricksters"
 date: "2021-03-31"
-tags: "Life Skills, Entrepreneurship, Adobe Creative Suite, Wordpress, Figma"
+tags: "Entrepreneurship, Adobe Creative Suite, Wordpress, Figma"
 ---
 Here's what I learned from my online community and online clothing business. **TL;DR at the end.**
 
