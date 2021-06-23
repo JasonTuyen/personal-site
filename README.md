@@ -2,7 +2,7 @@
 
 My personal website that shows off my interests as a person and my skills as an employee. This website was built using Gatsby and hosted with Netify. 
 
-[Link to site](https://www.jasontuyen.com/)
+My site can be access from here: https://www.jasontuyen.com/
 
 
 ## Built With
