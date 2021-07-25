@@ -10,7 +10,7 @@ export default function Projects({ data }) {
     <Layout>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Project - Jason Tuyen</title>
+        <title>Projects - Jason Tuyen</title>
         <description>The internet project and blog page of Jason Tuyen aka iCookieStalker.</description>
       </Helmet>
       <div>
