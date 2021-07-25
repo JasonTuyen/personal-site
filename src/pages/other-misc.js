@@ -22,6 +22,7 @@ export default function OtherMisc() {
         <li>YouNeedABudget Budgeting App (<a href="https://ynab.com/referral/?ref=2ep_estmrjhjk6c-&utm_source=customer_referral">Referral link where we both get a free month</a>)</li>
         <li>2017 Macbook Pro</li>
         <li>2018 Custom-Built PC (Ryzen 5 2600X/GeForce GTX 1060)</li>
+        <li>60% Custom Keyboard (Halo True Switches + Team Liquid Keycaps)</li>
       </ul>
       <h3>My Go-To Spotify Playlists</h3>
       <iframe title="Spotify Playlist" src="https://open.spotify.com/embed/playlist/6eHPRBzxE3OwVeDgXWdLAs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
