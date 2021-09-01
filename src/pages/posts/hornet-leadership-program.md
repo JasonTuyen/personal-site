@@ -1,5 +1,5 @@
 ---
-title: "Up To No Good"
+title: "Hornet Leadership Program"
 date: "2021-08-30"
 tags: "Leadership, Personal Growth"
 ---
