@@ -11,4 +11,11 @@ Up To No Good is a daily reminder that I am still young and that I should enjoy 
 
 (This post is on-going check back for updates!)
 
-Last Updated: August 30th 2021
+Last Updated: October 2nd 2021
+
+
+## Project Milestones
+* Spotify Playlist (Oct. 2nd 2021)
+    * Songs that portrays the feelings I had while planning the Up To No Good documentary.
+    * [Link to Playlist](https://open.spotify.com/playlist/52uhGgbDHHRT5MICKocGxm?si=3dfede5aa6fc4d87)
+
