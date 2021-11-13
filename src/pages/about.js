@@ -21,10 +21,10 @@ export default function About() {
       </p>
       <p>
         Outside of technolgy and coding I enjoy <a href="https://www.youtube.com/channel/UCUzAAvRtuSh6q2MI3jy52Dw">playing video games</a>, rocking out on my drums, and binging anime + k-dramas.
-        My other interests include videography/photography, <a href="https://open.spotify.com/user/icookiestalker/playlists">making music playlists</a>, searching for the best cookie, and most recently longboard dancing.
+        My other interests include videography/photography, making <a href="https://open.spotify.com/user/icookiestalker/playlists">music playlists</a>, searching for the best cookie, and most recently longboard dancing.
       </p>
       <p>
-        My two recent and favorite accomplishments are when <a href="https://twitter.com/iCookieStalker/status/1325620776523821056">I wrote a rap song during my first hackathon</a> and when I helped <a href="https://www.youtube.com/channel/UCU8LhZGkKsmXddsQjARLmsA/videos">edit for my University's Pilipino Cultural Night.</a>  But accomplishments are better as a team, 
+        My favorite accomplishments so far was when <a href="https://twitter.com/iCookieStalker/status/1325620776523821056">I wrote a rap song during my first hackathon</a> and when I helped <a href="https://www.youtube.com/channel/UCU8LhZGkKsmXddsQjARLmsA/videos">edit for my University's Pilipino Cultural Night.</a>  But accomplishments are better as a team, 
         so if you want to collab let's <a href="mailto:chat@jasontuyen.com">chat@jasontuyen.com</a> or you can also <a href="/contact/">fill out this contact form.</a>
       </p>
       <p><b>Good Luck Have Fun,<br></br>Jason "iCookieStalker" Tuyen</b></p>

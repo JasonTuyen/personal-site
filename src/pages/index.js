@@ -20,11 +20,13 @@ export default function Index() {
         <p>Also known as <mark>iCookieStalker.</mark></p>
         <p>I'm a <mark>Computer Science and Education Student</mark> from California.</p>
         <p>Currently looking for an oportunity to work as a <mark>Software Engineer.</mark></p>
-        <p><mark>Scroll down</mark> to see some of my favorite projects.</p>
+        <a href="https://www.jasontuyen.com/projects">Click here to see my in-depth project posts.</a>
+        {/*<p><mark>Scroll down</mark> to see some of my favorite projects.</p>*/}
         <div style={{float: "right"}}>
           <Socials />
         </div>
       </div>
+      {/* temporary removed for redesign
       <div style={{padding:15}}> 
         <p style={{fontSize:30}}><a href="/posts/randomfe3h/">RandomFE3H</a></p>
         <img
@@ -52,6 +54,7 @@ export default function Index() {
         />
         <p>LiquidTrackForLiquidHacks was a web application that I created during Liquid Hacks (a hackathon hosted by renowned esports organization Team Liquid) to promote mental health. This web application tracks water intake, sends reminders, provides inspirational League of Legends quotes, and plays hourly Animal Crossing music.</p>
       </div>
+      */}
     </Layout>
   )
 }
