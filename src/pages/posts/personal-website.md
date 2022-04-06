@@ -3,7 +3,7 @@ title: "Personal Website"
 date: "2021-02-01"
 tags: "Gatsby, Figma"
 ---
-My personal website that you're currently viewing.
+Write-up on how I created my personal website.
 
 
 [GitHub Repo Link](https://github.com/JasonTuyen/personal-site)
@@ -30,15 +30,16 @@ The website was pretty bad, but I learned a lot from it and it's actually [still
 
 The second website that I built was an e-commerce website back in 2018.
 It was built using Wordpress, WooCommerce, the Elementor Plugin and hosted with Namecheap.
-You can read more about that e-commerce project by clicking on [this link](/posts/nobletricksters/).
+You can read more about that e-commerce project by clicking on [this here](/posts/nobletricksters/).
 
 
-The third website that I created was my personal resume website.
+The third website that I created was my (first) personal website.
 It was created in 2019 using HTML+CSS and hosted with GitHub's Static Site Hosting.
 It was never really finished because I started my first job at that time, so there wasn't much free time to complete it.
+My first personal website was also just an online version of my resume, so there wasn't much creativity put into the design.
 
 
-The fourth website is the current one that you are viewing right now and in my opinion, it's my favorite so far.
+The fourth website is the one that you are viewing right now and it's definitely my favorite so far.
 
 
 Here's a screenshot of my first original personal resume website:
@@ -48,11 +49,13 @@ Here's a screenshot of my first original personal resume website:
 Here's a screenshot of my current personal website:
 ![Screenshot of Jason's new website](../../static/Thumbnail-PersonalSite.jpg)
 
+Below is a Figma mockup that I made:
+![Screenshot of Figma Website](../../static/Thumbnail-NewSiteFigma.jpg)
 
-This project was built mainly with GatsbyJS and some light HTML+CSS.
+
+This project was built with GatsbyJS and some HTML+CSS.
 Most of the design was handled thanks to a Gatsby plugin called [Typography](http://kyleamathews.github.io/typography.js/)
-The homepage was designed by myself, below is a Figma mockup that I made for my homepage and website:
-![Screenshot of Figma Website](../../static/Thumbnail-OldSiteFigma.jpg)
+The homepage was designed by myself by following a Figma mockup that I created.
 
 
 ### Research
@@ -73,15 +76,15 @@ Gatsby is a reach based framework that fulfilled my most important requirement: 
 
 
 ### Design
-After deciding how I would build my website, I set out to create a rough draft design.
-I used Figma to design my wireframe mockups and was able to create mockups in a few hours.
-As you can see, in the end I didn't copy the design exactly, but rough drafts are more of a guideline and estimate anyways.
+After deciding how I would build my website, I set out to create a rough design.
+I used Figma to design my wireframe mockups and was able to create one in a few hours.
+As you can see, in the end I didn't copy the design exactly, but rough drafts are more of a guideline anyways.
 
 
-During this phase I also decided how many pages I would have and how the layout of the pages will look like.
+During this phase I also decided how many pages I would have and how the layout of the pages would look like.
 My original draft was 5 pages (homepage, about page, project page, blog page, and other-misc page).
 In the final result I had 4 pages (homepage, about page, project page, and other-misc page).
-Here's the original Figma sketches
+Eventually, I updated my site to include a contact page.
 
 
 I also had a color scheme in my mockup that I changed up in the final result since I found out about Typography.
