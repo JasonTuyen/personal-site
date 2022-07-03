@@ -6,7 +6,7 @@ tags: "Computer Graphics, Personal Growth, Adobe Creative Suite"
 Sharing my experience and takeaways from studying abroad at Yonsei University in Seoul, South Korea. **TL;DR at the end.**
 
 
-[Check back on 7/11 for my study abroad photo journal website!](https://www.jasontuyen.com/)
+[My study abroad photo journal website!](korea.jasontuyen.com/)
 
 
 ## Project Summary
