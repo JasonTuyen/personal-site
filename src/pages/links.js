@@ -21,7 +21,7 @@ export default function Links() {
             </div>
             <p style={{fontSize:18}}>I push buttons for a living <span role="img" aria-label="coding man">👨🏻‍💻</span></p>
             <div className="labels">
-                <a href="korea.jasontuyen.com" target="_blank" rel="noopener noreferrer"><i class="bi bi-stars"/> NEW: Study Abroad Photos <i class="bi bi-stars"/></a>
+                <a href="https://korea.jasontuyen.com/" target="_blank" rel="noopener noreferrer"><i class="bi bi-stars"/> NEW: Study Abroad Photos <i class="bi bi-stars"/></a>
                 <a href="https://www.jasontuyen.com/" target="_blank" rel="noopener noreferrer"><i class="bi bi-globe2"/> Personal Website</a>
                 <a href="https://open.spotify.com/user/icookiestalker/playlists" target="_blank" rel="noopener noreferrer"><i class="bi bi-spotify"/> Spotify Playlists</a>
                 <a href="https://www.linkedin.com/in/jason-tuyen/" target="_blank" rel="noopener noreferrer"><i class="bi bi-linkedin"/> Connect on LinkedIn</a>
