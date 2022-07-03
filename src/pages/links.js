@@ -1,6 +1,7 @@
 import React from "react"
 import Helmet from "react-helmet"
 import pfp from "../static/pfp.jpg"
+import "../styles/global.css"
 
 export default function Links() {
     return (
@@ -18,9 +19,9 @@ export default function Links() {
                 <p style={{fontSize:26}}>Jason Tuyen</p>
                 <p style={{fontSize:12}}>aka "iCookieStalker"</p>
             </div>
-            <p style={{fontSize:18}}>I push buttons for a living 👨🏻‍💻</p>
+            <p style={{fontSize:18}}>I push buttons for a living <span role="img" aria-label="coding man">👨🏻‍💻</span></p>
             <div className="labels">
-                <a href="korea.jasontuyen.com" target="_blank" rel="noopener noreferrer"><i class="bi bi-stars"/> NEW: Study Abroad Photos</a>
+                <a href="korea.jasontuyen.com" target="_blank" rel="noopener noreferrer"><i class="bi bi-stars"/> NEW: Study Abroad Photos <i class="bi bi-stars"/></a>
                 <a href="https://www.jasontuyen.com/" target="_blank" rel="noopener noreferrer"><i class="bi bi-globe2"/> Personal Website</a>
                 <a href="https://open.spotify.com/user/icookiestalker/playlists" target="_blank" rel="noopener noreferrer"><i class="bi bi-spotify"/> Spotify Playlists</a>
                 <a href="https://www.linkedin.com/in/jason-tuyen/" target="_blank" rel="noopener noreferrer"><i class="bi bi-linkedin"/> Connect on LinkedIn</a>
