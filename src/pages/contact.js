@@ -11,7 +11,7 @@ export default function Contact() {
                 <description>The internet contact page of Jason Tuyen aka iCookieStalker.</description>
             </Helmet>
             <h1>Contact</h1>
-            <p>Hi, thanks for wanting to reach out! Just fill out the form below or feel free to send me a DM from any of my socials below. We can also <a href="mailto:chat@jasontuyen.com">chat@jasontuyen.com</a> if emails are more your style.</p>
+            <p>Hi, thanks for wanting to reach out! Just fill out this form or shoot me a DM from my socials listed below.</p>
             <form method="post" netlify-honeypot="bot-field" data-netlify="true" name="contact">
                 <input type="hidden" name="bot-field" />
                 <input type="hidden" name="form-name" value="contact" />
