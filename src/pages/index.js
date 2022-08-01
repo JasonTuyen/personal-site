@@ -3,9 +3,9 @@ import Helmet from "react-helmet"
 import Layout from "../components/layout"
 import Socials from "../components/socials"
 import "../styles/global.css"
-import ThumbnailOne from "../static/Thumbnail-Liquid.jpg"
-import ThumbnailTwo from "../static/Thumbnail-FE3H.jpg"
-import ThumbnailThree from "../static/Thumbnail-PersonalSite.jpg"
+//import ThumbnailOne from "../static/Thumbnail-Liquid.jpg"
+//import ThumbnailTwo from "../static/Thumbnail-FE3H.jpg"
+//import ThumbnailThree from "../static/Thumbnail-PersonalSite.jpg"
 
 export default function Index() {
   return (

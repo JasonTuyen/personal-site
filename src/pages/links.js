@@ -16,10 +16,11 @@ export default function Links() {
                     src={pfp}
                     alt="Headshot of Jason Tuyen also known as iCookieStalker"
                 />
-                <p style={{fontSize:26}}>Jason Tuyen</p>
-                <p style={{fontSize:12}}>aka "iCookieStalker"</p>
+                <div className="bioInfo">
+                    <p style={{fontSize:16}}><b>Jason Tuyen</b><br></br>@iCookieStalker</p>
+                    <p style={{fontSize:18}}>I push buttons for a living <span role="img" aria-label="coding man">👨🏻‍💻</span></p>
+                </div>
             </div>
-            <p style={{fontSize:18}}>I push buttons for a living <span role="img" aria-label="coding man">👨🏻‍💻</span></p>
             <div className="labels">
                 <a href="https://korea.jasontuyen.com/" target="_blank" rel="noopener noreferrer"><i class="bi bi-stars"/> NEW: Study Abroad Photos <i class="bi bi-stars"/></a>
                 <a href="https://www.jasontuyen.com/" target="_blank" rel="noopener noreferrer"><i class="bi bi-globe2"/> Personal Website</a>
@@ -28,6 +29,8 @@ export default function Links() {
                 <a href="https://github.com/JasonTuyen" target="_blank" rel="noopener noreferrer"><i class="bi bi-github"/> GitHub</a>
                 <a href="https://twitter.com/iCookieStalker" target="_blank" rel="noopener noreferrer"><i class="bi bi-twitter"/> Twitter</a>
                 <a href="https://www.instagram.com/icookiestalker/" target="_blank" rel="noopener noreferrer"><i class="bi bi-instagram"/> Instagram</a>
+                <a href="https://www.dashlane.com/cs/zPmC9cJx-Jh7" target="_blank" rel="noopener noreferrer"><i class="bi bi-stars"/>Dashlane Password Manager Referral Link<i class="bi bi-stars"/></a>
+                <a href="https://ynab.com/referral/?ref=2ep_estmrjhjk6c-&utm_source=customer_referral" target="_blank" rel="noopener noreferrer"><i class="bi bi-stars"/>YouNeedABudget Budgeting App Referral Link<i class="bi bi-stars"/></a>
             </div>
             <hr/>
             <p style={{textAlign: "center"}}>Interested in working together? Let's <a href="mailto:chat@jasontuyen.com">chat@jasontuyen.com</a></p>
