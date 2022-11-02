@@ -17,7 +17,6 @@ export default function Index() {
       </Helmet>
       <div style={{paddingTop:200, paddingBottom:500}}>
         <p style={{fontSize:40}}><span role="img" aria-label="peace sign">✌</span> Hi, I'm Jason!</p>
-        <p>Also known as <mark>iCookieStalker.</mark></p>
         <p>I'm a <mark>recent Computer Science and Education graduate</mark> from California.</p>
         <p>Currently looking for an oportunity to work as a <mark>Software Engineer.</mark></p>
         <a href="https://www.jasontuyen.com/projects">Click here to see my in-depth project posts.</a>

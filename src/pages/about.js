@@ -14,7 +14,7 @@ export default function About() {
       <p>Hello World,</p>
       <p>I'm Jason Tuyen and I often go by the alias of iCookieStalker. If you're reading this, thanks for visiting my website!</p>
       <p>
-        I am a recent graduate from Sacramento State Univerity. I have a degree in Computer Science, with a focus on Software Engineering, and a Minor in Education (specialization in Tecahing, Equity, and Engagement).
+        I am a recent graduate from Sacramento State Univerity. I have a degree in Computer Science, with a focus on Software Engineering, and a Minor in Education (specialization in Tecahing, Diversity, and Engagement).
         My prior work and volunteer experience include tutoring, tech support, and many people-focused tasks. 
         I'm now hoping to find a job as a software Engineer and use my past experiences to build user-centric products.
       </p>
