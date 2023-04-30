@@ -2,7 +2,7 @@
 
 My personal portfolio website built using Gatsby and hosted with Netify. 
 
-My site can be access from here: https://www.jasontuyen.com/
+Click here to view: https://www.jasontuyen.com/
 
 
 ## Built With
