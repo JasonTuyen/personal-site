@@ -31,7 +31,8 @@ Click here to view: https://www.jasontuyen.com/
 
 
 ## Future Development Plans
-* Add toggleable light/dark mode
+* ~~Add toggleable light/dark mode~~
 * ~~Make use of React's Form to create contact page~~
+* Add AI Chatbot
 * Add more projects/blog posts as I complete them
 * Continue to make edits to source code, so that code can be more optimal 
