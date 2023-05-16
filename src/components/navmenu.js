@@ -1,5 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
+import { ThemeToggler } from 'gatsby-plugin-dark-mode'
+import { FaSun, FaMoon } from "react-icons/fa"
+
 import "../styles/global.css"
 
 const ListLink = props => (
@@ -13,10 +16,25 @@ export default function NavMenu() {
     <div className="navMenu">
       <ListLink to="/">Jason Tuyen</ListLink>
       <ul style={{listStyle: `none`, float: `right`}}>
-        <ListLink to="/about" >About</ListLink>
+        <ListLink  to="/about" >About</ListLink>
         <ListLink to="/projects">Projects</ListLink>
-        <ListLink to="/other-misc">Other</ListLink>
         <ListLink to="/contact">Contact</ListLink>
+        <ThemeToggler>
+          {({ theme, toggleTheme }) => (
+            <div style={{display: 'inline-block', verticalAlign: 'middle'}}>
+              <input
+                type="checkbox"
+                id="dark-mode-toggle"
+                onChange={e => toggleTheme(e.target.checked ? "light" : "dark")}
+                checked={theme === "light"}
+                hidden
+              />
+                <label style={{display: 'inline-block', verticalAlign: 'middle'}} htmlFor="dark-mode-toggle">
+                {theme === "light" ? <FaMoon style={{ cursor: 'pointer'}}/> : <FaSun style={{ cursor: 'pointer'}}/>}
+              </label>
+            </div>
+          )}
+      </ThemeToggler>
       </ul>
     </div>
   )

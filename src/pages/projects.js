@@ -11,19 +11,19 @@ export default function Projects({ data }) {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Projects - Jason Tuyen</title>
-        <description>The internet project and blog page of Jason Tuyen aka iCookieStalker.</description>
+        <description>The internet project and blog page of Jason Tuyen.</description>
       </Helmet>
       <div>
-        <h1>Projects</h1>
-        <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
+      <h1>Projects</h1>
+      <h4 style={{color: 'var(--textNormal)'}}>{data.allMarkdownRemark.totalCount} Posts</h4>
         {data.allMarkdownRemark.edges.map(({ node }) => (
-          <div key={node.id}>
+          <div style={{border: '1px solid var(--textHR)', padding:'1rem'}} key={node.id}>
             <Link to={node.fields.slug}>
-            <h3>
+            <h3 style={{color: 'var(--textNormal)'}}>
               {node.frontmatter.title}{" "}
               <span> — {node.frontmatter.date}</span>
               <br></br>
-              Topic(s): {node.frontmatter.tags}
+              Topics: {node.frontmatter.tags}
             </h3>
             </Link>
             

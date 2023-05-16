@@ -8,7 +8,7 @@ export default function Contact() {
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>Contact - Jason Tuyen</title>
-                <description>The internet contact page of Jason Tuyen aka iCookieStalker.</description>
+                <description>The internet contact page of Jason Tuyen.</description>
             </Helmet>
             <h1>Contact</h1>
             <p>Hi, thanks for wanting to reach out! Just fill out this form or shoot me a DM from my socials listed below.</p>

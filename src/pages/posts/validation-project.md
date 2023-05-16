@@ -1,5 +1,5 @@
 ---
-title: "Validation Project"
+title: "The Validation Project"
 date: "2021-06-18"
 tags: "Flask, Heroku, Python, HTML, CSS, Hackathons"
 ---

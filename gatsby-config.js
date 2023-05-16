@@ -29,6 +29,8 @@
       },
     },
     `gatsby-transformer-remark`,
+    'gatsby-plugin-dark-mode',
+    `gatsby-plugin-image`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {

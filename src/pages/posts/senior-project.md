@@ -1,9 +1,11 @@
 ---
-title: "Senior Project"
+title: "Goblin Forge Tabletop Tools Senior Project"
 date: "2022-05-13"
 tags: "MongoDB, Express, React, NodeJS"
 ---
 My senior project team and I developed a Dungeons & Dragons web application for a client.
+
+[GitHub Repo Link](https://github.com/JasonTuyen/GFTTT)
 
 **Side Note:** I am not allowed to share too much information about this project, so it'll be a very brief and high-level overview.
 

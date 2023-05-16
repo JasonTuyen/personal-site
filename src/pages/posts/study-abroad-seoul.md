@@ -1,12 +1,12 @@
 ---
-title: "Study Abroad in Seoul"
+title: "Study Abroad in Seoul Korea"
 date: "2022-01-23"
-tags: "Computer Graphics, Personal Growth, Adobe Creative Suite"
+tags: "Adobe Creative Suite, Personal Growth"
 ---
 Sharing my experience and takeaways from studying abroad at Yonsei University in Seoul, South Korea. **TL;DR at the end.**
 
 
-[My study abroad photo journal website!](korea.jasontuyen.com/)
+[My study abroad photo journal website!](https://korea.jasontuyen.com/)
 
 
 ## Project Summary
@@ -72,5 +72,5 @@ Here are some useful apps for traveling in Korea:
 * Learned to be more adaptable, flexible, resilient, and confident (away from my usual support system)
 * Had to solve problems on my own (lived on my own off-campus in a foreign country)
 * Improved communication skills (overcame language and cultural barriers)
-* Tried new things and collected a bunhc of "first experiences"
+* Tried new things and collected a bunch of "first experiences"
 * Organized and recorded every one of my cafe visits in a spreadsheet
