@@ -1,7 +1,7 @@
 ---
-title: "Personal Website"
+title: "Personal Portfolio Website"
 date: "2021-02-01"
-tags: "Gatsby, Figma"
+tags: "GatsbyJS, Netify, Figma"
 ---
 Write-up on how I created my personal website.
 
