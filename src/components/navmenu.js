@@ -25,8 +25,8 @@ export default function NavMenu() {
               <input
                 type="checkbox"
                 id="dark-mode-toggle"
-                onChange={e => toggleTheme(e.target.checked ? "light" : "dark")}
-                checked={theme === "light"}
+                onChange={e => toggleTheme(e.target.checked ? "dark" : "light")}
+                checked={theme === "dark"}
                 hidden
               />
                 <label style={{display: 'inline-block', verticalAlign: 'middle'}} htmlFor="dark-mode-toggle">
