@@ -35,4 +35,8 @@ Click here to view: https://www.jasontuyen.com/
 * ~~Make use of React's Form to create contact page~~
 * Add AI Chatbot
 * Add more projects/blog posts as I complete them
-* Continue to make edits to source code, so that code can be more optimal 
+* Continue to make edits to source code, so that code can be more optimal
+
+  
+## Warning (09/2023)
+Anyone looking to use this code, please be advised that there is currently a continuous integration issue. 
