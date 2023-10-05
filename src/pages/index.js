@@ -18,7 +18,7 @@ export default function Index() {
       </Helmet>
       <div style={{paddingTop:200, paddingBottom:500}}>
         <p style={{fontSize:22}}><span role="img" aria-label="peace sign">✌</span> Hi, I'm Jason!</p>
-        <p style={{fontSize:36}}>I am a <mark>Software Engineer</mark> and incoming <mark>Graduate Student</mark>, focused on creating <mark>human-centered products</mark>.</p>
+        <p style={{fontSize:36}}>I am a <mark>Graduate Student</mark> at San Jose State, currently looking for work as a <mark>Software Engineer</mark>.</p>
         <p style={{fontSize:22, textDecoration:"underline"}}>Scroll down to see my favorite projects.</p>
         <div style={{float: "right"}}>
           <a href="https://github.com/JasonTuyen" target="_blank" rel="noopener noreferrer"><FaGithubSquare style={{height:"40", width:"40", cursor: 'pointer', margin:"5"}}/></a>
